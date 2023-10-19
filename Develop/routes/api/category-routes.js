@@ -1,7 +1,6 @@
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
 
-// module.exports = router;
 // GET all categories
 router.get('/', async (req, res) => {
   try {
