@@ -42,7 +42,10 @@ install inquirer at version 8.2.4, and set up database config variables in a .en
 
 ## Usage
 
-Can help with a basic understanding of orm's and backend routes, for learning, or for practical use as a e-commerce website with a built front-end
+This project can assist in providing a basic understanding of ORMs and backend routes. It's suitable for learning or for practical use as an e-commerce website with a built front-end.
+
+[Watch the Demonstration Video](https://drive.google.com/file/d/1GCdhLonQt7MkJk-AOaMEkYXtpr4FKxCd/view)
+
 
 ## Credits
 
